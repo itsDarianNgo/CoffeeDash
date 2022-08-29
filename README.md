@@ -6,7 +6,6 @@ Hello, this is "CoffeeDash", a full-stack delivery application utilizing the Doo
 **Tech used:** HTML, CSS, JavaScript, Node, Express
 
 ## Optimizations
-*(optional)*
 
 When I improve this project, I would update my media queries with a mobile-first approach, add local data storage for the delivery ID/tracking, and create an error alert when the distance is too far for delivery.
 
