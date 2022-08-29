@@ -1,7 +1,7 @@
 # My Awesome Project
 Hello, this is "CoffeeDash", a full-stack delivery application utilizing the DoorDash Drive API. Ideally it would be used for a physical or online store that wants the ability to deliver their products to their customers on the same day.
 
-![alt tag](https://imgur.com/a/iITYyWg.gif)
+![gif](https://github.com/itsDarianNgo/GIF/blob/main/CoffeeDash2.gif)
 
 **Tech used:** HTML, CSS, JavaScript, Node, Express
 
